@@ -1,0 +1,15 @@
+/home/mp/Eigene Dateien/Studium/c#/seminar1/quiz1/obj/Debug/net6.0/quiz1.csproj.AssemblyReference.cache
+/home/mp/Eigene Dateien/Studium/c#/seminar1/quiz1/obj/Debug/net6.0/quiz1.GeneratedMSBuildEditorConfig.editorconfig
+/home/mp/Eigene Dateien/Studium/c#/seminar1/quiz1/obj/Debug/net6.0/quiz1.AssemblyInfoInputs.cache
+/home/mp/Eigene Dateien/Studium/c#/seminar1/quiz1/obj/Debug/net6.0/quiz1.AssemblyInfo.cs
+/home/mp/Eigene Dateien/Studium/c#/seminar1/quiz1/obj/Debug/net6.0/quiz1.csproj.CoreCompileInputs.cache
+/home/mp/Eigene Dateien/Studium/c#/seminar1/quiz1/bin/Debug/net6.0/quiz1
+/home/mp/Eigene Dateien/Studium/c#/seminar1/quiz1/bin/Debug/net6.0/quiz1.deps.json
+/home/mp/Eigene Dateien/Studium/c#/seminar1/quiz1/bin/Debug/net6.0/quiz1.runtimeconfig.json
+/home/mp/Eigene Dateien/Studium/c#/seminar1/quiz1/bin/Debug/net6.0/quiz1.dll
+/home/mp/Eigene Dateien/Studium/c#/seminar1/quiz1/bin/Debug/net6.0/ref/quiz1.dll
+/home/mp/Eigene Dateien/Studium/c#/seminar1/quiz1/bin/Debug/net6.0/quiz1.pdb
+/home/mp/Eigene Dateien/Studium/c#/seminar1/quiz1/obj/Debug/net6.0/quiz1.dll
+/home/mp/Eigene Dateien/Studium/c#/seminar1/quiz1/obj/Debug/net6.0/ref/quiz1.dll
+/home/mp/Eigene Dateien/Studium/c#/seminar1/quiz1/obj/Debug/net6.0/quiz1.pdb
+/home/mp/Eigene Dateien/Studium/c#/seminar1/quiz1/obj/Debug/net6.0/quiz1.genruntimeconfig.cache
