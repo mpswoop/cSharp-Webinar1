@@ -2,7 +2,7 @@
 Console.WriteLine("input first number");
 int numberA = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("input second number");
-int numberB = Convert.ToInt32(Console.ReadLine());
+int numberB = Int32.Parse(Console.ReadLine());
 if (numberB * numberB == numberA)
 {
     Console.WriteLine("yes");
